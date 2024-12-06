@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/main.dart';
 import 'package:flutter_application_1/providers/my_app_state.dart';
 import 'package:provider/provider.dart';
 import '../screens/favoirte_page.dart';
